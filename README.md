@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1CBiMQG1vdpp-vaFZKYO_T3qT1RlCGRHH/view?usp=shari
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/reubenrosen/SimpleMedic/refs/heads/main/images/image1.png?token=GHSAT0AAAAAADHHZJDMDTBFP3W7C5C4I4BE2DUEE4Q)
+![Screenshot](https://github.com/reubenrosen/SimpleMedic/blob/main/images/image1.png)
 
-![Screenshot](https://raw.githubusercontent.com/reubenrosen/SimpleMedic/refs/heads/main/images/image2.png?token=GHSAT0AAAAAADHHZJDNQ4GDHJSLQRI4NR5W2DUEFQA)
+![Screenshot](https://github.com/reubenrosen/SimpleMedic/blob/main/images/image2.png)
 
