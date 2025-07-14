@@ -1,7 +1,7 @@
 
 # SimpleMedic- An NLP based approach to identifying conditions based on symptoms
 
-This python GUI utilizes tkinter and Natural Language Processing, specifically lemmetization to identify words, associate them to the list of conditions listed in symptoms_dataset.csv (a small dataset I made for testing purposes)
+This python GUI utilizes tkinter and Natural Language Processing, specifically lemmetization to identify words, associate them to the list of conditions listed in symptoms_dataset.csv (a small dataset I made for testing purposes). The training of the model was using BERT tokenizer.
 
 
 
